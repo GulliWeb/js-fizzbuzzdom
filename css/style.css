@@ -1,0 +1,10 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* card */
+.card-element{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
